@@ -44,7 +44,7 @@ Codes are confirmed to run with the following libraries. Likely to be compatible
 
 ### Files
 * `README.md`: This file. 
-* `LICENSE.pdf`: Document of agreement for using this sample code. Read this carefully before using the code. 
+* `LICENSE.md`: Document of agreement for using this sample code. Read this carefully before using the code. 
 * `run_BO.py`: Script to execute BO sequence. 
 * `BO_core.py`: Implements BO class. 
 * `obj_func.py`: Implements objective functions. 
