@@ -1,8 +1,11 @@
-## DIALOGUE MODEL AND DATA EVALUATION LICENSE AGREEMENT
+## SOFTWARE LICENSE AGREEMENT FOR EVALUATION
 
-This DIALOGUE MODEL AND DATA EVALUATION LICENSE AGREEMENT (this "Agreement") is a legal contract between a person who uses or otherwise accesses the Data (“User(s)”), and Nippon Telegraph and Telephone corporation ("NTT").
+This SOFTWARE LICENSE AGREEMENT FOR EVALUATION (this "Agreement") is a legal contract between a person who uses or otherwise accesses the Data (“User(s)”), and Nippon Telegraph and Telephone corporation ("NTT").
 
-READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY BEFORE USING OR OTHERWISE ACCESSING NTT'S PROPRIETARY DIALOGUE MODEL AND DATA (INCLUDING THE MODEL AND DATA MODIFIED PURSUANT AND SUBJECT TO SECTION 1.) ACCOMPANIED BY THIS AGREEMENT (the "DATA"). THE DATA IS COPYRIGHTED AND IT IS LICENSED TO USER UNDER THIS AGREEMENT, NOT SOLD TO USER. BY USING OR OTHERWISE ACCESSING THE DATA, USER ACKNOWLEDGES THAT USER HAS READ THIS AGREEMENT, THAT USER UNDERSTANDS IT, AND THAT USER ACCEPTS AND AGREES TO BE BOUND BY ITS TERMS. IF AT ANY TIME USER IS NOT WILLING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, USER SHOULD IMMEDIATELY CEASE AND REFRAIN FROM ACCESSING OR USING THE DATA AND DELETE ANY COPIES USER MAY HAVE. THIS AGREEMENT REPRESENTS THE ENTIRE AGREEMENT BETWEEN USER AND NTT CONCERNING THE DATA.
+READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR OTHERWISE ACCESSING OR USING NTT'S PROPRIETARY SOFTWARE ACCOMPANIED BY THIS AGREEMENT (the "SOFTWARE"). THE SOFTWARE IS COPYRIGHTED AND IT IS LICENSED TO USER UNDER THIS AGREEMENT, NOT SOLD TO USER. 
+BY INSTALLING OR OTHERWISE ACCESSING OR USING THE SOFTWARE, USER ACKNOWLEDGES THAT USER HAS READ THIS AGREEMENT, THAT USER UNDERSTANDS IT, AND THAT USER ACCEPTS AND AGREES TO BE BOUND BY ITS TERMS. 
+IF AT ANY TIME USER IS NOT WILLING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, USER SHOULD TERMINATE THE INSTALLATION PROCESS, IMMEDIATELY CEASE AND REFRAIN FROM ACCESSING OR USING THE SOFTWARE AND DELETE ANY COPIES USER MAY HAVE. 
+THIS AGREEMENT REPRESENTS THE ENTIRE AGREEMENT BETWEEN USER AND NTT CONCERNING THE SOFTWARE.
 
  
 ### BACKGROUND
@@ -14,7 +17,7 @@ C.	As a condition to NTT's provision of the Data to User, NTT has required User 
 
 In consideration of these premises, and the mutual promises and conditions in this Agreement, the parties hereby agree as follows:
 
-1．	<u>Grant of Evaluation License.</u>  	NTT hereby grants to User, and User hereby accepts, under the terms and conditions of this Agreement, a royalty free, nontransferable and nonexclusive license to use and modify the Data only for the purposes of testing, analyzing, and evaluating the methods or mechanisms as shown in the research paper submitted by NTT to a certain academy. User may use the Data for providing dialogue service to end-users only for the purpose of testing, analyzing, and evaluating of the Data. User may make a reasonable number of backup copies of the Data solely for User's internal use pursuant to the license granted in this Section 1.
+1．	<u>Grant of Evaluation License.</u>  	NTT hereby grants to User, and User hereby accepts, under the terms and conditions of this Agreement, a royalty free, nontransferable and nonexclusive license to use the Software internally for the purposes of testing, analyzing, and evaluating the methods or mechanisms as shown in the research paper submitted by NTT to a certain academy. User may make a reasonable number of backup copies of the Software solely for User's internal use pursuant to the license granted in this Section 1.
 
 2． <u>Shipment and Installation.</u>  NTT will ship or deliver the Data by any method that NTT deems appropriate. User shall be solely responsible for proper use of the Data.
 
