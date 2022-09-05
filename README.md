@@ -1,5 +1,18 @@
 ### Paper
-paper information comes here after its publication.
+Paper is here: https://doi.org/10.1038/s41524-022-00859-8
+
+Cite the following article to refer to this work.
+```BibTeX
+@article{wo-npjcm2022,
+  title = {{Bayesian} Optimization with Experimental Failure for High-Throughput Materials Growth},
+  author = {Yuki K. Wakabayashi and Takuma Otsuka and Yoshiharu Krockenberger and Hiroshi Sawada and Yoshitaka Taniyasu and Hideki Yamamoto},
+  journal = {npj Computational Materials},
+  volume = {8},
+  number = {180},
+  doi = {10.1038/s41524-022-00859-8},
+  year = {2022}
+}
+```
 
 ### How to run
 Use `run_BO.py` to carry out BO and display the result. 
